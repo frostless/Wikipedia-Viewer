@@ -1,6 +1,4 @@
 $(document).ready(function(){
-  
-
     var s = $('input'),
         f  = $('form'),
         a = $('.after'),
@@ -120,6 +118,4 @@ $(document).ready(function(){
             });
         }
     });
-      
-      
     })
